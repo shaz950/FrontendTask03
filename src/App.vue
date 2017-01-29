@@ -80,7 +80,7 @@ export default {
         padding:0;
         background-color:lightgrey;
     }
-    #app {
+    #app{
         font-family: 'Avenir', Helvetica, Arial, sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -106,7 +106,7 @@ export default {
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
     }
-    h1, h2 {
+    h1, h2{
         font-weight: normal;
     }
 </style>

@@ -15,7 +15,7 @@
 <script>
 export default{
        data(){
-            return {
+            return{
                 actualValue:this.value,
                 actualFormat:this.format,
                 index:this.id,
